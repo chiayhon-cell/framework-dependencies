@@ -24,6 +24,11 @@
         <artifactId>framework-orm</artifactId>
         <version>${framework.version}</version>
       </dependency>
+      <dependency>
+        <groupId>cn.chiayhon.framework</groupId>
+        <artifactId>framework-test</artifactId>
+        <version>${framework.version}</version>
+      </dependency>
     </dependencies>
   </dependencyManagement>
 
